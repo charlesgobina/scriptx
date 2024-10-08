@@ -1,0 +1,10 @@
+.scriptHeader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  font-family: "JetBrains Mono", monospace;
+  /* transition: background-color 0.25s;
+  background-color: #1a1a1a; */
+}
